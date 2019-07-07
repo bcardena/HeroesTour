@@ -1,0 +1,19 @@
+.example-card {
+    max-width: 400px;
+  }
+  
+  .example-header-image {
+    background-image: url('https://scontent.feoh4-1.fna.fbcdn.net/v/t1.0-9/56960687_10219478144247884_8357653560812371968_n.jpg?_nc_cat=107&_nc_eui2=AeGfAd2X95F75OT892EQGT0Cu6XjVFNRh6SF4bXaPHtyyBmLs3wbn8EvGtO-DmRFbcikZAM5_nwG5lcp1Q3mMUaST_TKV-R_0gRjStv-zD2mmQ&_nc_oc=AQkE8oDnImWaZG3sutY4vlyXV-dUU84tom1gPWUJSqZGNOGoERlYhTYODpfwnq8P8k4&_nc_ht=scontent.feoh4-1.fna&oh=671c5684cb21092f97e80aa8581ba253&oe=5D789EF8');
+    background-size: cover;
+  }
+  
+  .example-form {
+    min-width: 150px;
+    max-width: 500px;
+    width: 100%;
+  }
+  
+  .example-full-width {
+    width: 100%;
+  }
+  
